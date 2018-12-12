@@ -1,11 +1,9 @@
 # Velocity Optical Fiber
 ## A high speed, high bandwidth, ultra low latency, blockchain-using company blueprint.
 
-![Velocity teaser image]
-(https://raw.githubusercontent.com/SagefulSolutions/Velocity/master/Resources/images/Velocity-teaser-1.jpg)
+![Velocity teaser image](https://raw.githubusercontent.com/SagefulSolutions/Velocity/master/Resources/images/Velocity-teaser-1.jpg)
 
-![Fibermap for Level 3 Networks]
-(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Level%203%20Fibermap.png)
+![Fibermap for Level 3 Networks(https://raw.githubusercontent.com/SagefulSolutions/Velocity/master/Resources/images/Level%203%20Fibermap.png)
 ######(SOURCE:http://www.level3.com/~/media/files/maps/en-network-services-level-3-network-map.ashx)
 
 West Virginia is basically 100% fiberless and people sit around and wonder why we aren't moving forward in any areas of life, and are instead, moving backwards in many ways. If we keep living life in the slowlane we are going to continually be left behind until someone makes a change. I think this change can be found by being connected to the rest of the country at the quickest possible speeds with room for upgrading later. I'm talking about a 100 GIGABIT PER SECOND network, here. When this thing is done, it will enable every single house in Weston the opportunity to have information delivered at the speed of light directly into their home. The biggest advantage of this is not having to hear children, spouses, or guests complain about how they can't do what they want to do. The fact is, we have moved into a digital lifestyle, and the ones complaining about it, are the people that remember before the computer came out and lived their entire childhood/teenage/early adult years without cell phones even being seen or a thing.
