@@ -2,7 +2,7 @@
 ## A high speed, high bandwidth, ultra low latency, blockchain-using company blueprint.
 
 ![Velocity teaser image]
-(https://github.com/SagefulSolutions/Velocity/blob/master/Resources/images/Velocity-teaser-1.jpg)
+(https://raw.githubusercontent.com/SagefulSolutions/Velocity/master/Resources/images/Velocity-teaser-1.jpg)
 
 ![Fibermap for Level 3 Networks]
 (https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Level%203%20Fibermap.png)
