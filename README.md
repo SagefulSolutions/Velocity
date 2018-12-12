@@ -20,7 +20,7 @@ We have come a long way from that luddite kind of thinking, I hope. I think it's
 
 
 ![Meme]
-(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/13879388_495396070651166_8930859175330605264_n.jpg)
+(https://raw.githubusercontent.com/SagefulSolutions/Velocity/master/Resources/images/13879388_495396070651166_8930859175330605264_n.jpg)
 
 
 - Businesses can't keep their doors open. 
