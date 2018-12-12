@@ -1,4 +1,4 @@
-Pros
+# Pros
 
 - Finer control and accountability over your local infrastructure by people you bump elbows with at church, or chat with 
 at the Shop n Save, convenience store, or bank.
@@ -25,3 +25,7 @@ for talent.
 
 - Will extend the I-79 Tech corridor further south because businesses that need access to Open Network fiber connections 
 at decent prices come to Weston/Lewis County for the service needed.
+
+# Cons
+
+- Expensive
