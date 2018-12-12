@@ -29,3 +29,6 @@ at decent prices come to Weston/Lewis County for the service needed.
 # Cons
 
 - Expensive
+Rebuttal: 
+It's only going to cost around $600 in interest per month at 7% interest on a 
+two million dollar project paid back over 20 years.
