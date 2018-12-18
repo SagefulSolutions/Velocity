@@ -1,4 +1,5 @@
 https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
+(1080p YouTube link of video in article: https://www.youtube.com/watch?v=hmhVwJOHmnE)
 
 Notes:
 
