@@ -1,4 +1,4 @@
-https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
+## https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
 (1080p YouTube link of video in article: https://www.youtube.com/watch?v=hmhVwJOHmnE)
 
 Notes:
@@ -9,9 +9,9 @@ Internet Users Association Cooperative (IUA or IUAC)
   - All users own the network based on the level of service they subscribe to. (Percentages per package will need to be fleshed out)
   
   
-https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2018-broadband-deployment-report
+## https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2018-broadband-deployment-report
 
-Key findings from the Report include the following:
+### Key findings from the Report include the following:
 
 - In the wake of the 2015 Title II Order, the deployment of advanced telecommunications capability slowed dramatically.
 - From 2012 to 2014, the two years preceding the Title II Order, fixed terrestrial broadband Internet access was deployed to 29.9 million people who never had it before, including 1 million people on Tribal lands.
