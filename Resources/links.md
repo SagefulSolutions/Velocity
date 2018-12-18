@@ -28,3 +28,10 @@ Internet Users Association Cooperative (IUA or IUAC)
 - Americans with access to both fixed terrestrial 25 Mbps/3 Mbps service and mobile LTE with a minimum advertised speed of 5 Mbps/1 Mbps typically live in census block groups with a lower percentage of households living in poverty, and with higher average populations, population densities, per capita incomes, and median household incomes than Americans living in areas without access to these services.
 - The U.S. ranked 10th out of 28 countries for download speed, 7th out of 29 for fixed broadband price (using the fixed hedonic price index), and 10th out of 29 for mobile broadband price (again, using the fixed hedonic price index).
 - 88% of American schools meet the FCC’s short-term connectivity goal of 100 Mbps per 1,000 users. Further, 22% of school districts meet our long-term connectivity goal of 1 Gbps per 1,000 users.
+
+## https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
+
+### Co-Mo Connect
+A good case study.
+
+- An electric company-gone-ISP in Missouri
