@@ -32,6 +32,7 @@ Internet Users Association Cooperative (IUA or IUAC)
 ## https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
 
 ### Co-Mo Connect
+https://www.co-mo.net/about-us/
 A good case study.
 
 - An electric company-gone-ISP in Missouri
