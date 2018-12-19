@@ -35,3 +35,24 @@ $113,836,000 to run 1250 miles of cable over 25 years comes out to
 Equation: $113,836,000/25/12/45 shows 
 
 We need 9,035 people paying $35/month to pay this project off within 30 years.
+
+(A*B)*C/D
+
+A=1.75 Gbps
+B=7 backhaul links (14 radios)
+C=1024 (Gbps->Mbps)
+D=4 (# of wards or "regions" in the network receiving some of the bandwidth)
+(1.75*7)*1024/4
+
+4 regions, each region gets 3,136Mbps (392GBps) (62 endpoints   @ 50Mbps)
+                                                (124 endpoints  @ 25Mbps) ** Would only happen in crowded neighborhoods, unless we can intercept the bandwidth from Citynet's antennas in one location and bandwidth shape it with pfSense/Nagios/etc to everywhere else)
+
+https://store.ubnt.com/collections/wireless/products/airfiber-24hd
+14 1.75Gbps radios @ $3,180 each (with 6% tax) = $44,520 over 4 years  = $11,130 per year, $927.50 per month or $231.88 per week.
+
+
+https://www.amazon.com/NETGEAR-10-Gigabit-Multi-Gigabit-Rackmount-Multi-speed/dp/B01LXVJBXR/
+4x (data link redundancy on each end of wireless bridge) 16 port 10Gbit switches @ $1,376.94 eac (with 6% tax) over 4 years  = $1,376.94/year, $114.75 per month or $28.69 per week.  
+
+https://www.amazon.com/APC-Smart-UPS-2000VA-Tower-100-127V/dp/B00DQOAFH0/
+4x (power redundancy on each end of link) @ $1250 each over 4 years = $1,250/yr, $104.17/mo or $26.04/wk
