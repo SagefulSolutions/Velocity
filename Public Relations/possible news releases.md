@@ -18,7 +18,7 @@ After running over 10 miles of fiber optic cables to move data at the speed of l
 
 
 ### Bridgeport is the state's very first Gigabit city. Philippi is the first gigabit town. Snowshoe is the first gigabit resort in the state. All these places now have access to 1000Mbps download speeds as well as upload. For a reasonable price!!
-https://www.youtube.com/watch?v=hmhVwJOHmnE&fbclid=IwAR3U3w9NM_U9sAa_zOZYCPovLzxNRHSJ53QJk2X1KJfOmZKkvriXfduwhPY
+https://www.youtube.com/watch?v=hmhVwJOHmnE
 
 A four-way cooperation between a newly founded Internet Users Association Cooperative ("IUA" or "IUA Co-op"), Lewis County Commission, Harrison County Commission and Citynet could help us get a 1.5Gbps backhaul connecting Harrison County and Lewis County to Citynet's fiber loop in the Stonewood area.
 
