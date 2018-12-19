@@ -33,7 +33,7 @@
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
    - Should include the ordinance within it which can be found in 0.0.0.2.1
       v0.0.0.2.1 ORDINANCE DRAFT PROPOSAL LINK FOLLOWS
-            https://github.com/jwaugh/WestonCityofLights/blob/master/ordinanceproposal
+            https://github.com/jwaugh/WestonCityofLights/blob/master/ordinanceproposal <--- This needs corrected to the link the SagefulSolutions>Velocity REPO
 
 ####v0.0.0.3 - FIND INTEREST
 	- Distribute survey to community to see what they think about the internet, how many devices they connect, and what kind of content they consume.
@@ -85,10 +85,10 @@
 ###v0.0.1 - 
 
 ##v0.1 - 
-- Expected before February 2017
+- Expected before February 2020
 
 ##v0.8 - 10 ENDPOINT milestone
-- Expected before April 2017
+- Expected before April 2020
 - Includes fiber laid to at least 10 entities
 - Ignite jabber server w/link to download OTR plugins and instructions to configure
 	- This will allow Jabber server to be accessed anywhere via the fiber footprint.
@@ -97,13 +97,13 @@
 ##v0.9 - FINAL BETA TESTING 
 
 #v1 - 1Gbps availability network-wide
-- Expected before December 2018
+- Expected before December 2025
 - Reach at least 500 endpoints
 - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
 - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
 
 ##v1.5 - Weston's Blockchain goes live
-- Expected before April 2019
+- Expected before April 2030
 - Intranet only so that nobody with outside hashing power can mess with the system as easily
 	- Another solution might be to implement a blockchain that mines most of the coins in the first six months or less of genesis being mined so that there could be some major community events held around the release of mining to the public.
 - Authentication
@@ -116,7 +116,7 @@
 - Taxes
 
 #v2.0 - 100Gbps availability network-wide
-- Expected before December 2046 as our LAST and BEST update since the project's inception! :)
+- Expected before December 2046 as LAST and BEST update since the project's inception! :)
 - 10GbE or 100GbE available via proper routing and switching equipment
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
 	- 100Gbps times 3500 endpoints divided by 1024Gbps per Tbps = 341.797 Tbps (42TBps aggregate)
