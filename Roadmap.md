@@ -2,7 +2,7 @@
 
 #### 0.0.0.1 - THE IDEA
 - Devise an actual title and some slogans for this thing
-	- OPTION 1: "<strong>VELOCITY</strong>"
+	- "<strong>VELOCITY</strong>"
 		- Value added to the community.
 		- Education benefit itself is amazing.
 		- Lower cost internet to the end-user
@@ -11,8 +11,6 @@
 		- Immediate revenue from connecting disparate locations
 		- Telephony, Internet, Online gaming, video streaming Currency, EVERYTHING that can be digitized, can be run over this network
 		- You want in on this, trust us.
-	- OPTION 2:  
-		-  
 		
 	- Slogans coming along well as can be seen in the Public Relations (https://github.com/jwaugh/WestonCityofLight/tree/master/Public%20Relations) folder at github.
 	- Need more time coming up with a good name, and also need to bounce several name ideas off of other people before settling on anything. Might just need to take advantage of someone else's creative juices
