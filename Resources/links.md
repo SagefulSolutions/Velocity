@@ -30,16 +30,15 @@ Internet Users Association Cooperative (IUA or IUAC)
 - 88% of American schools meet the FCC’s short-term connectivity goal of 100 Mbps per 1,000 users. Further, 22% of school districts meet our long-term connectivity goal of 1 Gbps per 1,000 users.
 
 ## https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
-
 ### Co-Mo Connect
-https://www.co-mo.net/about-us/
+### https://www.co-mo.net/about-us/
 A good case study.
 
 - An electric company-gone-ISP in Missouri
-### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
+## https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
 
-## Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
+### Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
 
-### https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
+## https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
 
-## Fed up with slow and pricey Internet, cities start demanding gigabit fiber
+### Fed up with slow and pricey Internet, cities start demanding gigabit fiber
