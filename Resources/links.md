@@ -37,7 +37,9 @@ A good case study.
 
 - An electric company-gone-ISP in Missouri
 ### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
+
 ## Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
 
 ### https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
+
 ## Fed up with slow and pricey Internet, cities start demanding gigabit fiber
