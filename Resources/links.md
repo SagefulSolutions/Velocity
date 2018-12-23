@@ -36,3 +36,5 @@ https://www.co-mo.net/about-us/
 A good case study.
 
 - An electric company-gone-ISP in Missouri
+### Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
+## https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
