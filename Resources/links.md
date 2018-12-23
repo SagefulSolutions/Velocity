@@ -1,4 +1,5 @@
-## https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
+## How a Group of Neighbors Created Their Own Internet Service
+### https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
 (1080p YouTube link of video in article: https://www.youtube.com/watch?v=hmhVwJOHmnE)
 
 Notes:
@@ -8,8 +9,8 @@ Internet Users Association Cooperative (IUA or IUAC)
       -(1.5*1024/8*1024)/3950
   - All users own the network based on the level of service they subscribe to. (Percentages per package will need to be fleshed out)
   
-  
-## https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2018-broadband-deployment-report
+## FCC 2018 Broadband Deployment Report 
+### https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2018-broadband-deployment-report
 
 ### Key findings from the Report include the following:
 
@@ -29,15 +30,15 @@ Internet Users Association Cooperative (IUA or IUAC)
 - The U.S. ranked 10th out of 28 countries for download speed, 7th out of 29 for fixed broadband price (using the fixed hedonic price index), and 10th out of 29 for mobile broadband price (again, using the fixed hedonic price index).
 - 88% of American schools meet the FCC’s short-term connectivity goal of 100 Mbps per 1,000 users. Further, 22% of school districts meet our long-term connectivity goal of 1 Gbps per 1,000 users.
 
-## https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
-### Co-Mo Connect
+## Co-Mo Connect
 ### https://www.co-mo.net/about-us/
-A good case study.
-
+### https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
+- A good case study.
 - An electric company-gone-ISP in Missouri
-## https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
 
-### Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
+## Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
+### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
+
 
 ## https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
 
