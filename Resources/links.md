@@ -2,6 +2,7 @@
 ### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
 
 ## Fed up with slow and pricey Internet, cities start demanding gigabit fiber
+![](https://cdn.arstechnica.net/wp-content/uploads/2013/11/fiber.jpg)
 ### https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
 
 ## Co-Mo Connect
