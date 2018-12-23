@@ -1,3 +1,15 @@
+## Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
+### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
+
+## https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
+### Fed up with slow and pricey Internet, cities start demanding gigabit fiber
+
+## Co-Mo Connect
+### https://www.co-mo.net/about-us/
+### https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
+- A good case study.
+- An electric company-gone-ISP in Missouri
+
 ## How a Group of Neighbors Created Their Own Internet Service
 ### https://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/
 (1080p YouTube link of video in article: https://www.youtube.com/watch?v=hmhVwJOHmnE)
@@ -8,7 +20,7 @@ Internet Users Association Cooperative (IUA or IUAC)
   - Internet comes from Bridgeport/Stonewood Citynet Fiber loop via 1.5+ Gbps uplinks (192 GBps/196,608MBps) 
       -(1.5*1024/8*1024)/3950
   - All users own the network based on the level of service they subscribe to. (Percentages per package will need to be fleshed out)
-  
+
 ## FCC 2018 Broadband Deployment Report 
 ### https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2018-broadband-deployment-report
 
@@ -29,17 +41,3 @@ Internet Users Association Cooperative (IUA or IUAC)
 - Americans with access to both fixed terrestrial 25 Mbps/3 Mbps service and mobile LTE with a minimum advertised speed of 5 Mbps/1 Mbps typically live in census block groups with a lower percentage of households living in poverty, and with higher average populations, population densities, per capita incomes, and median household incomes than Americans living in areas without access to these services.
 - The U.S. ranked 10th out of 28 countries for download speed, 7th out of 29 for fixed broadband price (using the fixed hedonic price index), and 10th out of 29 for mobile broadband price (again, using the fixed hedonic price index).
 - 88% of American schools meet the FCC’s short-term connectivity goal of 100 Mbps per 1,000 users. Further, 22% of school districts meet our long-term connectivity goal of 1 Gbps per 1,000 users.
-
-## Co-Mo Connect
-### https://www.co-mo.net/about-us/
-### https://www.youtube.com/channel/UCxCmGPbzA8PonVJyySvqxtw/videos
-- A good case study.
-- An electric company-gone-ISP in Missouri
-
-## Why Comcast and Other Cable ISPs Aren't Selling You Gigabit Internet Access
-### https://arstechnica.com/information-technology/2013/12/why-comcast-and-other-cable-isps-arent-selling-you-gigabit-internet/
-
-
-## https://arstechnica.com/information-technology/2013/11/fed-up-with-slow-and-pricey-internet-cities-start-demanding-gigabit-fiber/
-
-### Fed up with slow and pricey Internet, cities start demanding gigabit fiber
